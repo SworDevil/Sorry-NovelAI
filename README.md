@@ -6,6 +6,11 @@ Because of DMCA the colab repo has been taken down. More detailed : https://gith
 
 I will not write anythin about novelai. But I will write something about "ImageAI".
 
+# I am so sad about what I had done so I made [this vid for apologize to NovelAI](https://www.youtube.com/watch?v=TyIL7XjMUaw)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=TyIL7XjMUaw" target="_blank">
+ <img src="http://img.youtube.com/vi/TyIL7XjMUaw/mqdefault.jpg" alt="Watch the video"/>
+</a>
+
 # BTW
 ## I made a tool for [encrypt and decrypt](https://github.com/JingShing/Encryptor-Decryptor)
 You can get it [here](https://github.com/JingShing/Encryptor-Decryptor).
