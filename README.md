@@ -12,4 +12,4 @@ You can get it [here](https://github.com/JingShing/Encryptor-Decryptor).
 
 That tool has no matter with [a script not for ai](a_script_not_for_ai).
 
-decrypt key is definitely has no matter with the tag of this repo.
+decrypt key definitely has no matter with the tag of this repo.
