@@ -1,4 +1,4 @@
-[English]((README.md)) | 繁體中文
+[English](README.md) | 繁體中文
 # 對不起 NovelAI
 我很抱歉冒犯到 NovelAI 的開發者。
 
