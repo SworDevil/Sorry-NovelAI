@@ -1,3 +1,4 @@
+English | [繁體中文](README_TCH.md)
 # Sorry-NovelAI
 It is sorry to offend NovelAI developers.
 
