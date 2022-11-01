@@ -10,6 +10,6 @@ I will not write anythin about novelai. But I will write something about "ImageA
 ## I made a tool for [encrypt and decrypt](https://github.com/JingShing/Encryptor-Decryptor)
 You can get it [here](https://github.com/JingShing/Encryptor-Decryptor).
 
-That tool has no matter with [a script not for ai](a_script_not_for_ai).
+That tool has no matter with [a  script not for ai](a_script_not_for_ai).
 
 decrypt key definitely has no matter with the tag of this repo.
